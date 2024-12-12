@@ -1,0 +1,17 @@
+{
+  "name": "typedoc-test-project",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "scripts": {
+    "typedoc": "typedoc",
+    "serve": "serve ./docs"
+  },
+  "author": "Aleksei Berezkin",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "serve": "^14.2.4",
+    "typedoc": "^0.27.4",
+    "typescript": "^5.7.2"
+  }
+}
